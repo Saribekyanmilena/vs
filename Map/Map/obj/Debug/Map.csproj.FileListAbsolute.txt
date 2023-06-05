@@ -1,0 +1,32 @@
+C:\Users\User\VS\Map\Map\obj\Debug\Map.Form1.resources
+C:\Users\User\VS\Map\Map\obj\Debug\Map.Properties.Resources.resources
+C:\Users\User\VS\Map\Map\obj\Debug\Map.csproj.GenerateResource.cache
+C:\Users\User\VS\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+C:\Users\User\VS\Map\Map\bin\Debug\Map.exe.config
+C:\Users\User\VS\Map\Map\bin\Debug\Map.exe
+C:\Users\User\VS\Map\Map\bin\Debug\Map.pdb
+C:\Users\User\VS\Map\Map\obj\Debug\Map.exe
+C:\Users\User\VS\Map\Map\obj\Debug\Map.pdb
+C:\Users\User\VS\Map\Map\obj\Debug\Map.csproj.AssemblyReference.cache
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\bin\Debug\Map.exe.config
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\bin\Debug\Map.exe
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\bin\Debug\Map.pdb
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.csproj.AssemblyReference.cache
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.csproj.SuggestedBindingRedirects.cache
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.Form1.resources
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.Properties.Resources.resources
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.csproj.GenerateResource.cache
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.exe
+D:\Документы\МДК 01.02\MDK-01.02-main\Map\Map\obj\Debug\Map.pdb
+C:\Users\milen\source\repos\Map\Map\bin\Debug\Map.exe.config
+C:\Users\milen\source\repos\Map\Map\bin\Debug\Map.exe
+C:\Users\milen\source\repos\Map\Map\bin\Debug\Map.pdb
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.csproj.SuggestedBindingRedirects.cache
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.Form1.resources
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.Properties.Resources.resources
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.csproj.GenerateResource.cache
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.exe
+C:\Users\milen\source\repos\Map\Map\obj\Debug\Map.pdb
